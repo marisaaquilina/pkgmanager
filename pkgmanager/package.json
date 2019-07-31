@@ -1,15 +1,15 @@
 {
-  "name": "clarity-mode",
+  "name": "pkgmanager",
   "version": "0.1.0",
-  "description": "A decluttered, activity-driven interface to JupyterLab",
+  "description": "A package manager extension",
   "keywords": [
     "jupyter",
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/jupytercalpoly/jupyterlab-clarity-mode",
+  "homepage": "https://github.com/my_name/myextension",
   "bugs": {
-    "url": "https://github.com/jupytercalpoly/jupyterlab-clarity-mode/issues"
+    "url": "https://github.com/my_name/myextension/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Marisa Aquilina",
@@ -22,7 +22,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jupytercalpoly/jupyterlab-clarity-mode.git"
+    "url": "https://github.com/my_name/myextension.git"
   },
   "scripts": {
     "build": "tsc",
@@ -31,7 +31,8 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^1.0.0"
+    "@jupyterlab/application": "^1.0.2",
+    "@jupyterlab/apputils": "^1.0.2"
   },
   "devDependencies": {
     "rimraf": "^2.6.1",
