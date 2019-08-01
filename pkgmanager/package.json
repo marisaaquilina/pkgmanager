@@ -32,9 +32,11 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^1.0.2",
-    "@jupyterlab/apputils": "^1.0.2"
+    "@jupyterlab/apputils": "^1.0.2",
+    "request": "^2.88.0"
   },
   "devDependencies": {
+    "@types/node": "^12.6.9",
     "rimraf": "^2.6.1",
     "typescript": "~3.5.2"
   },

@@ -17,7 +17,7 @@ const extension: JupyterFrontEndPlugin<void> = {
   autoStart: true,
   requires: [INotebookTools, INotebookTracker],
   activate: (app: JupyterFrontEnd, cellTools: INotebookTools, notebookTracker: INotebookTracker) => {
-    console.log(9);
+    console.log(14);
 
   const packageTool = new PackageTool(app, notebookTracker);
   cellTools.addItem({ tool: packageTool });
