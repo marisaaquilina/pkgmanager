@@ -1,6 +1,6 @@
 # pkgmanager
 
-A package manager extension
+Pkgmanager is s a JupyterLab UI extension that installs packages within your active kernel. ``Poof’’
 
 
 ## Prerequisites

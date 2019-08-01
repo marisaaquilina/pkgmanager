@@ -8,29 +8,32 @@ function kernel(input: string): void {
     console.log(kernelModels, kernelModels[0])
     const kernel = Kernel.connectTo(kernelModels[0]);
     if (kernel) {
-      kernel.requestExecute({ code: '%pip install ' + input});
+      kernel.requestExecute({ code: '%pip install ' + input, silent: true });
       console.log("Finished '%pip install " + input)
     }
   });
 }
 
 export function PackageSearcher() {
-  // Declare a new state variable, which we'll call "count"
+   // Declare a new state variable, which we'll call "count"
   const [input, setInput] = useState('');
+  let result: string[] = [];
+  const [packages, setPackages] = useState(result);
   return (
     <div>
-      <p>You clicked {input} times</p>
       <input
         value={input}
         onChange={e => setInput(e.target.value)}
-        placeholder="First name"
+        placeholder="Package Name"
         type="text"
-        name="firstName"
+        name="packageName"
         required
       />
-      <button onClick={() => kernel(input)}>
-        Click me
+      
+      <button onClick={() => {kernel(input); result.push(input); setPackages(result);}}>
+        Install
       </button>
+      <p>Current packages: {packages}</p>
     </div>
   );
 }
