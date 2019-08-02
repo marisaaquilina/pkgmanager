@@ -893,16 +893,108 @@
         "version": "c03247b9d5b88491ca41870ea156bc8e53b5f8ab2d4b97ec8080cd070ff93f87",
         "signature": "c03247b9d5b88491ca41870ea156bc8e53b5f8ab2d4b97ec8080cd070ff93f87"
       },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/diacritics.d.ts": {
+        "version": "9a35088a2d8bccfe3d6b45ca09860cfbdfdb687897ed4157aaf46dde1e6663ae",
+        "signature": "9a35088a2d8bccfe3d6b45ca09860cfbdfdb687897ed4157aaf46dde1e6663ae"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/filters.d.ts": {
+        "version": "ab0cef13d3b4fb0e9da6c1abef755b1963bdf7587b41951fbe97d7890a7e9d01",
+        "signature": "ab0cef13d3b4fb0e9da6c1abef755b1963bdf7587b41951fbe97d7890a7e9d01"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/accessibility/index.d.ts": {
+        "version": "6f8430d8693c0ac63fb63b0db7753c4428ed9230db389ad32d1d1c8fd6f5e510",
+        "signature": "6f8430d8693c0ac63fb63b0db7753c4428ed9230db389ad32d1d1c8fd6f5e510"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts": {
+        "version": "775959c963eeebc632338c5774f2941436381a403093c1d5c2c5d04170b50a66",
+        "signature": "775959c963eeebc632338c5774f2941436381a403093c1d5c2c5d04170b50a66"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/utils.d.ts": {
+        "version": "f0ccac7b20c51e3548eac593fbb0b437655efe553918f7cb6b7c6ef6176763cd",
+        "signature": "f0ccac7b20c51e3548eac593fbb0b437655efe553918f7cb6b7c6ef6176763cd"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/builtins.d.ts": {
+        "version": "16f5bb0f83ee876b5a7e2342eb915c890c93ef9530f775c5b5a3e6dd6fc0e271",
+        "signature": "16f5bb0f83ee876b5a7e2342eb915c890c93ef9530f775c5b5a3e6dd6fc0e271"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts": {
+        "version": "0233a9010acccf9d483054f469e10fb1dbc9b14a9ac16355fd6dd7f18b7c967c",
+        "signature": "0233a9010acccf9d483054f469e10fb1dbc9b14a9ac16355fd6dd7f18b7c967c"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/containers.d.ts": {
+        "version": "b89f846fd45c9c734e156b4b1cfbaffeb6eb2135dab4b680dcd24766f10cbccb",
+        "signature": "b89f846fd45c9c734e156b4b1cfbaffeb6eb2135dab4b680dcd24766f10cbccb"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/indicators.d.ts": {
+        "version": "47513b2fe4a5ce70af6c46e6cc1ccadeedf58a9937d97467e30bddd86d571d80",
+        "signature": "47513b2fe4a5ce70af6c46e6cc1ccadeedf58a9937d97467e30bddd86d571d80"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/control.d.ts": {
+        "version": "c057a1b79122973ec5b4b4ab8eaeb2e64436ba2fe6219d236ffab4e600129e23",
+        "signature": "c057a1b79122973ec5b4b4ab8eaeb2e64436ba2fe6219d236ffab4e600129e23"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/group.d.ts": {
+        "version": "6b360ed810478987d282fde524fedbf70c4323b55ede4c6c6de34463206191d7",
+        "signature": "6b360ed810478987d282fde524fedbf70c4323b55ede4c6c6de34463206191d7"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/input.d.ts": {
+        "version": "f85915e0bfb9eab05b37427b1ca8fae7b36adc890305dad2117f1837157d4373",
+        "signature": "f85915e0bfb9eab05b37427b1ca8fae7b36adc890305dad2117f1837157d4373"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-dom/index.d.ts": {
+        "version": "5fe76ea99187e695f2e7ee00ddb0c9db41b217397ade188b8a137504728f687f",
+        "signature": "5fe76ea99187e695f2e7ee00ddb0c9db41b217397ade188b8a137504728f687f"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/menu.d.ts": {
+        "version": "572646c14519b8e1654bb4ab6182099f43af0027313b1ca84adc1bb239fa77a3",
+        "signature": "572646c14519b8e1654bb4ab6182099f43af0027313b1ca84adc1bb239fa77a3"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/multivalue.d.ts": {
+        "version": "063f7ac160c56f50b7e1824ac5f35f069d0fe4d1fb91cfc7df8cdeabbb4d9204",
+        "signature": "063f7ac160c56f50b7e1824ac5f35f069d0fe4d1fb91cfc7df8cdeabbb4d9204"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/option.d.ts": {
+        "version": "e66123c869a9da9a0171e216539fe176a07253eb0ebea000cd05ad516cfe4388",
+        "signature": "e66123c869a9da9a0171e216539fe176a07253eb0ebea000cd05ad516cfe4388"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/placeholder.d.ts": {
+        "version": "892058e527124a94541b1030500739a7c9f38cccb5591b7a1704a98f62058d9c",
+        "signature": "892058e527124a94541b1030500739a7c9f38cccb5591b7a1704a98f62058d9c"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/singlevalue.d.ts": {
+        "version": "74adacb4b6ff3c82776a719d28c2fad6ff51f9df167e3e0638ed8e4974dca92f",
+        "signature": "74adacb4b6ff3c82776a719d28c2fad6ff51f9df167e3e0638ed8e4974dca92f"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/index.d.ts": {
+        "version": "191ea8e38084a12e7d56671362e9d8329b5e87012f0b250a07f1fbfb212bf8ca",
+        "signature": "191ea8e38084a12e7d56671362e9d8329b5e87012f0b250a07f1fbfb212bf8ca"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/styles.d.ts": {
+        "version": "f077a351afded0bc169bc514a2c7586d5338ba75ed2d3edea1774df5e15814b8",
+        "signature": "f077a351afded0bc169bc514a2c7586d5338ba75ed2d3edea1774df5e15814b8"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/select.d.ts": {
+        "version": "f7c6edd84f857f1bbfe8f73bd86e236d5654848a96caf41e08012126b7635d25",
+        "signature": "f7c6edd84f857f1bbfe8f73bd86e236d5654848a96caf41e08012126b7635d25"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/statemanager.d.ts": {
+        "version": "b5255f0de858b7a19f89ea1856748b290fb82086bf336039613c01d23bbc27ed",
+        "signature": "b5255f0de858b7a19f89ea1856748b290fb82086bf336039613c01d23bbc27ed"
+      },
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/index.d.ts": {
+        "version": "ba2d99f9fbc0077a76b7cce4b8238acb9162cf8f92fe265d27475a24280f3990",
+        "signature": "ba2d99f9fbc0077a76b7cce4b8238acb9162cf8f92fe265d27475a24280f3990"
+      },
       "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/components/packagebar.tsx": {
-        "version": "a80528997bf38a1f927d323246e6ee00159ecec868d92f8b3f23c3a024e6f352",
-        "signature": "f9eb42bdacb458760141b1e92cd389c3859e2d6b11ff3db3d4f3577fcf999dff"
+        "version": "04ffbe191dfcec45ed8144741a12e8520fb8d216d97aeb4fa5dc1d883e8ebe8a",
+        "signature": "a53cae7ba25b9e3ab9e7a98dc2c8b8b5e02cc9f60284ab7b6bcf82a0aea16c97"
       },
       "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/components/packagetool.tsx": {
         "version": "0051a9e783510cca699f3d1ad03ee95f86d598a534ee5de87e07f76ff338f3ae",
         "signature": "e7e615c2a330a5b5f634ff3359123c4bec166d6935a6e9848da9389419818984"
       },
       "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/index.ts": {
-        "version": "d604e7e342e6640820c174cd534375725588caf89a5c18a2bc1eb3cf8aafd764",
+        "version": "57bd5ced809c83101cc2e43d6347eed56dbd34dad0585be5d7050bcfc1c5d046",
         "signature": "b2a9bda9234da146357b62b26ebf5441398f69a2c2c977dc2ffc99e8fa326144"
       }
     },
@@ -2082,9 +2174,131 @@
         "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts",
         "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/tokens.d.ts"
       ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/filters.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/diacritics.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/select.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/utils.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/builtins.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/containers.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/indicators.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/control.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/group.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/input.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-dom/index.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/menu.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-dom/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/utils.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/multivalue.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/option.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/placeholder.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/singlevalue.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/index.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/containers.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/indicators.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/control.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/group.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/input.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/menu.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/multivalue.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/option.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/placeholder.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/singlevalue.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/styles.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/containers.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/control.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/group.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/indicators.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/input.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/placeholder.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/option.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/menu.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/singlevalue.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/multivalue.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/select.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/filters.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/accessibility/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/utils.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/builtins.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/styles.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/statemanager.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/select.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/index.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/statemanager.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/filters.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/styles.d.ts"
+      ],
       "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/components/packagebar.tsx": [
         "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@jupyterlab/services/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts"
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/index.d.ts"
       ],
       "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/components/packagetool.tsx": [
         "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/index.d.ts",
@@ -3255,6 +3469,127 @@
         "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts",
         "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/tokens.d.ts"
       ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/filters.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/diacritics.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/select.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/utils.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/builtins.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/containers.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/indicators.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/control.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/group.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/input.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-dom/index.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/menu.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-dom/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/utils.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/multivalue.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/option.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/placeholder.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/singlevalue.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/index.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/containers.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/indicators.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/control.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/group.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/input.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/menu.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/multivalue.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/option.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/placeholder.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/singlevalue.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/styles.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/containers.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/control.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/group.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/indicators.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/input.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/placeholder.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/option.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/menu.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/singlevalue.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/multivalue.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/select.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/filters.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/accessibility/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/utils.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/builtins.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/styles.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/statemanager.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/select.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/index.d.ts": [
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/statemanager.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/filters.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/index.d.ts",
+        "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/styles.d.ts"
+      ],
       "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/components/packagetool.tsx": [
         "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@jupyterlab/application/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/index.d.ts"
@@ -3487,9 +3822,32 @@
       "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/modestatus.d.ts",
       "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts",
       "/users/marisaaquilina/projects/pkgmanager/node_modules/@jupyterlab/notebook/lib/index.d.ts",
-      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/components/packagebar.tsx",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/diacritics.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/filters.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/accessibility/index.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/types.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/utils.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/builtins.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/theme.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/containers.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/indicators.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/control.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/group.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/input.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-dom/index.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/menu.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/multivalue.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/option.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/placeholder.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/singlevalue.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/components/index.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/styles.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/select.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/src/statemanager.d.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/node_modules/@types/react-select/index.d.ts",
       "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/components/packagetool.tsx",
-      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/index.ts"
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/index.ts",
+      "/users/marisaaquilina/projects/pkgmanager/pkgmanager/pkgmanager/src/components/packagebar.tsx"
     ]
   },
   "version": "3.5.3"

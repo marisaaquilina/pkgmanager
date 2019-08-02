@@ -33,6 +33,9 @@
   "dependencies": {
     "@jupyterlab/application": "^1.0.2",
     "@jupyterlab/apputils": "^1.0.2",
+    "@types/react-select": "^3.0.0",
+    "react-select": "^3.0.4",
+    "react-select-fast-filter-options": "^0.2.3",
     "request": "^2.88.0"
   },
   "devDependencies": {
