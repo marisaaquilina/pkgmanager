@@ -1,10 +1,14 @@
 import {
   NotebookTools,
   INotebookTracker,
-  //NotebookPanel,
 } from '@jupyterlab/notebook';
 
+//import { NotebookPanel } from '@jupyterlab/panel';
+
 import { PanelLayout } from '@phosphor/widgets';
+
+import { Message } from '@phosphor/messaging';
+
 
 import { JupyterFrontEnd } from '@jupyterlab/application';
 
@@ -19,18 +23,28 @@ class PackageTool extends NotebookTools.Tool {
   constructor(app: JupyterFrontEnd, notebookTracker: INotebookTracker) {
     super();
     this.app = app;
-    //this.notebookTracker = notebookTracker;
+    this.notebookTracker = notebookTracker;
     this.layout = new PanelLayout();
     let layout = this.layout as PanelLayout;
+    let count = layout.widgets.length;
+    for (let i = 0; i < count; i++) {
+      layout.widgets[0].dispose();
+    }
+      //const panel: NotebookPanel = this.notebookTracker.currentWidget;
+  } 
+  protected onActiveCellChanged(msg: Message): void {
+    this.notebookTracker.currentWidget.context.ready.then(() => {
+      console.log(this.notebookTracker.currentWidget.session.name);
+      let layout = this.layout as PanelLayout;
       let count = layout.widgets.length;
       for (let i = 0; i < count; i++) {
         layout.widgets[0].dispose();
       }
-      //const panel: NotebookPanel = this.notebookTracker.currentWidget;
-      const cellWidget = ReactWidget.create(<PackageSearcher/>);
+      const cellWidget = ReactWidget.create(<PackageSearcher notebookName={this.notebookTracker.currentWidget.session.name}/>);
       layout.addWidget(cellWidget);
-  }  
-  //private notebookTracker: INotebookTracker;
+    });
+  }
+  private notebookTracker:INotebookTracker;
 }
 
 export default PackageTool;
