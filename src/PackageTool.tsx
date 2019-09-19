@@ -12,7 +12,6 @@ import { NotebookTools, INotebookTracker } from '@jupyterlab/notebook';
 //   Toolbar
 // } from '@jupyterlab/apputils';
 
-
 import { ReactWidget } from '@jupyterlab/apputils';
 
 import * as React from 'react';
@@ -22,6 +21,8 @@ import { PackageSearcher } from './PackageBar';
 import { KernelSpyModel } from './Model';
 
 import { MessageLogView } from './Widget';
+
+//Experimenting
 
 
 class PackageTool extends NotebookTools.Tool {
@@ -61,6 +62,8 @@ class PackageTool extends NotebookTools.Tool {
         layout.addWidget(view);
         const cellWidget = ReactWidget.create(<PackageSearcher kernelId={session.kernel.id} kernelName={session.kernelDisplayName} uninstalledPackage={''} moduleError={false} layouty={layout}/>);
         layout.addWidget(cellWidget);
+        //Experimenting
+       
       });
     }
   }
