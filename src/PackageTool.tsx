@@ -23,7 +23,7 @@ import { KernelSpyModel } from './Model';
 import { MessageLogView } from './Widget';
 
 //Experimenting
-
+import {createSearchOverlay} from './Overlay';
 
 class PackageTool extends NotebookTools.Tool {
   readonly app: JupyterFrontEnd;
@@ -63,7 +63,7 @@ class PackageTool extends NotebookTools.Tool {
         const cellWidget = ReactWidget.create(<PackageSearcher kernelId={session.kernel.id} kernelName={session.kernelDisplayName} uninstalledPackage={''} moduleError={false} layouty={layout}/>);
         layout.addWidget(cellWidget);
         //Experimenting
-       
+        const overlayWidget = new createSearchOverlay();
       });
     }
   }

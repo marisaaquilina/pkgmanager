@@ -921,6 +921,30 @@
         "version": "81f4709b8909d54ce334adfa57d15d3b86c6e2c72bab74e44bd6a0ab9e817938",
         "signature": "81f4709b8909d54ce334adfa57d15d3b86c6e2c72bab74e44bd6a0ab9e817938"
       },
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts": {
+        "version": "0737ea86b554ae2f96ce914c3f2814f5f79c15f64d1a264ab55ef617ccc9ea68",
+        "signature": "0737ea86b554ae2f96ce914c3f2814f5f79c15f64d1a264ab55ef617ccc9ea68"
+      },
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts": {
+        "version": "3549d4b50531f7a07475734aeee4f16f3d9a6738c1af31d4c2a2bd94bf18130a",
+        "signature": "3549d4b50531f7a07475734aeee4f16f3d9a6738c1af31d4c2a2bd94bf18130a"
+      },
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts": {
+        "version": "69d1b86383013ba24213c0a183f06d7bfacbb6bcde1bb28a05bdef1b0ad9a34a",
+        "signature": "69d1b86383013ba24213c0a183f06d7bfacbb6bcde1bb28a05bdef1b0ad9a34a"
+      },
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts": {
+        "version": "e917156ba3d011f1a7298f71cca3dc2120fdb21bf54369216e086b3010ad40ee",
+        "signature": "e917156ba3d011f1a7298f71cca3dc2120fdb21bf54369216e086b3010ad40ee"
+      },
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts": {
+        "version": "f657fa65a1e56dff50063f4e2b19ef9e88eb2af9ad4deee563fca02e71f38ca4",
+        "signature": "f657fa65a1e56dff50063f4e2b19ef9e88eb2af9ad4deee563fca02e71f38ca4"
+      },
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts": {
+        "version": "b5597d53bbf41e768661cd249f11401171d2148852425bf0fb3fcf6c4b07588d",
+        "signature": "b5597d53bbf41e768661cd249f11401171d2148852425bf0fb3fcf6c4b07588d"
+      },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/editor.d.ts": {
         "version": "3776d94775b3e0db984f571ff105dd5d291d50772012748c812dad0389ecd9c4",
         "signature": "3776d94775b3e0db984f571ff105dd5d291d50772012748c812dad0389ecd9c4"
@@ -1414,7 +1438,7 @@
         "signature": "010d846d1bc4f8d78e82e6075dbe1c9c1028cad3d8e542ed2cae0ebee05db156"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/index.ts": {
-        "version": "d81b05a802ccca74e2af363467445f3806422ac628dd8522b2af7c3b758d7318",
+        "version": "a16664a74bcbbddf8c5d2826ff5acdcc9865771307b8b1e4ef1288ed558c6f97",
         "signature": "2c26301478f71131dca2d0bd081dba5fe44e4a071ac20b9bdedd35d4d9286db2"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/typings/react-inspector.d.ts": {
@@ -2559,11 +2583,52 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/codemirror-ipython.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/codemirror-ipythongfm.d.ts"
       ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts"
+      ],
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/editor.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/mode.d.ts"
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/mode.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts"
       ],
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/factory.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
@@ -2615,6 +2680,7 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/apputils/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/fileeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/widgets/lib/index.d.ts"
       ],
@@ -3260,6 +3326,7 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/packagetool.tsx",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/apputils/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/documentsearch/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/searchinstance.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/mainmenu/lib/index.d.ts"
       ],
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/typings/react-inspector.d.ts": [
@@ -4354,6 +4421,41 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/codemirror-ipython.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/codemirror-ipythongfm.d.ts"
       ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts"
+      ],
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/editor.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
@@ -5292,36 +5394,13 @@
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/codemirror-ipython.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/codemirror-ipythongfm.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/mode.d.ts",
-      [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/editor.d.ts",
-        [
-          {
-            "file": "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/editor.d.ts",
-            "start": 73,
-            "length": 12,
-            "code": 7016,
-            "category": 1,
-            "messageText": {
-              "messageText": "Could not find a declaration file for module 'codemirror'. '/Users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/codemirror/lib/codemirror.js' implicitly has an 'any' type.",
-              "category": 1,
-              "code": 7016,
-              "next": {
-                "messageText": "Try `npm install @types/codemirror` if it exists or add a new declaration (.d.ts) file containing `declare module 'codemirror';`",
-                "category": 1,
-                "code": 7035
-              }
-            }
-          },
-          {
-            "file": "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/editor.d.ts",
-            "start": 22,
-            "length": 23,
-            "messageText": "Cannot find type definition file for 'codemirror/searchcursor'.",
-            "category": 1,
-            "code": 2688
-          }
-        ]
-      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/index.d.ts",
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/searchcursor.d.ts",
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/matchbrackets.d.ts",
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts",
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/editor.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/factory.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/mimetype.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/codemirror/lib/syntaxstatus.d.ts",
@@ -5330,28 +5409,7 @@
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/fileeditor/lib/tokens.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/fileeditor/lib/tabspacestatus.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/fileeditor/lib/index.d.ts",
-      [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/documentsearch/lib/providers/codemirrorsearchprovider.d.ts",
-        [
-          {
-            "file": "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/documentsearch/lib/providers/codemirrorsearchprovider.d.ts",
-            "start": 258,
-            "length": 12,
-            "code": 7016,
-            "category": 1,
-            "messageText": {
-              "messageText": "Could not find a declaration file for module 'codemirror'. '/Users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/codemirror/lib/codemirror.js' implicitly has an 'any' type.",
-              "category": 1,
-              "code": 7016,
-              "next": {
-                "messageText": "Try `npm install @types/codemirror` if it exists or add a new declaration (.d.ts) file containing `declare module 'codemirror';`",
-                "category": 1,
-                "code": 7035
-              }
-            }
-          }
-        ]
-      ],
+      "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/documentsearch/lib/providers/codemirrorsearchprovider.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/documentsearch/lib/providers/notebooksearchprovider.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/documentsearch/lib/index.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/coreutils/lib/index.d.ts",
