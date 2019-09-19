@@ -13,13 +13,13 @@ const OVERLAY_CLASS = 'jp-DocumentSearch-overlay';
 const OVERLAY_ROW_CLASS = 'jp-DocumentSearch-overlay-row';
 const INPUT_CLASS = 'jp-DocumentSearch-input';
 const INPUT_WRAPPER_CLASS = 'jp-DocumentSearch-input-wrapper';
-const REGEX_BUTTON_CLASS_OFF =
+//const REGEX_BUTTON_CLASS_OFF =
   'jp-DocumentSearch-input-button-off jp-DocumentSearch-regex-button';
-const REGEX_BUTTON_CLASS_ON =
+////const REGEX_BUTTON_CLASS_ON =
   'jp-DocumentSearch-input-button-on jp-DocumentSearch-regex-button';
-const CASE_BUTTON_CLASS_OFF =
+//const CASE_BUTTON_CLASS_OFF =
   'jp-DocumentSearch-input-button-off jp-DocumentSearch-case-button';
-const CASE_BUTTON_CLASS_ON =
+//const CASE_BUTTON_CLASS_ON =
   'jp-DocumentSearch-input-button-on jp-DocumentSearch-case-button';
 // const INDEX_COUNTER_CLASS = 'jp-DocumentSearch-index-counter';
 // const UP_DOWN_BUTTON_WRAPPER_CLASS = 'jp-DocumentSearch-up-down-wrapper';
@@ -369,7 +369,7 @@ class SearchOverlay extends React.Component<
           onInputFocus={this._onSearchInputFocus.bind(this)}
           onInputBlur={this._onSearchInputBlur.bind(this)}
           inputFocused={this.state.searchInputFocused}
-          searchText={this.state.searchText}
+          //searchText={this.state.searchText}
           forceFocus={this.props.overlayState.forceFocus}
         />
         {/* <SearchIndices
@@ -464,15 +464,15 @@ namespace createSearchOverlay {
   export interface IOptions {
     widgetChanged: Signal<SearchInstance, IDisplayState>;
     overlayState: IDisplayState;
-    onCaseSensitiveToggled: Function;
-    onRegexToggled: Function;
-    onHightlightNext: Function;
-    onHighlightPrevious: Function;
-    onStartQuery: Function;
-    onEndSearch: Function;
-    onReplaceCurrent: Function;
-    onReplaceAll: Function;
-    isReadOnly: boolean;
+    // onCaseSensitiveToggled: Function;
+    // onRegexToggled: Function;
+    // onHightlightNext: Function;
+    // onHighlightPrevious: Function;
+    // onStartQuery: Function;
+    // onEndSearch: Function;
+    // onReplaceCurrent: Function;
+    // onReplaceAll: Function;
+    // isReadOnly: boolean;
   }
 }
 

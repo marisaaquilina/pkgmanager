@@ -3,7 +3,7 @@ import {
 } from '@jupyterlab/application';
 
 import {
-  INotebookTools, INotebookTracker, 
+  INotebookTools, INotebookTracker, NotebookPanel, 
 } from '@jupyterlab/notebook';
 
 import PackageTool from './PackageTool';
@@ -20,10 +20,10 @@ const pkginstaller: JupyterFrontEndPlugin<void> = {
   id: 'pkginstaller',
   autoStart: true,
   requires: [INotebookTools, INotebookTracker],
-  activate: (app: JupyterFrontEnd, cellTools: INotebookTools, notebookTracker: INotebookTracker) => {  
-    const packageTool = new PackageTool(app, notebookTracker);
+  activate: (app: JupyterFrontEnd, cellTools: INotebookTools, notebookTracker: INotebookTracker, panel: NotebookPanel) => {  
+    const packageTool = new PackageTool(app, notebookTracker, panel);
     cellTools.addItem({ tool: packageTool });
-    console.log('Ya\'ll')
+    console.log(':-))))');
   }
 };
 
