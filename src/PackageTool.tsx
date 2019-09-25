@@ -6,7 +6,7 @@ import { JupyterFrontEnd } from '@jupyterlab/application';
 
 import { Kernel } from '@jupyterlab/services';
 
-import { NotebookTools, INotebookTracker } from '@jupyterlab/notebook';
+import { NotebookTools, INotebookTracker, NotebookPanel } from '@jupyterlab/notebook';
 
 // import {
 //   Toolbar
@@ -23,11 +23,11 @@ import { KernelSpyModel } from './Model';
 import { MessageLogView } from './Widget';
 
 //Experimenting
-import {createSearchOverlay} from './Overlay';
+//import {createSearchOverlay} from './Overlay';
 
 class PackageTool extends NotebookTools.Tool {
   readonly app: JupyterFrontEnd;
-  constructor(app: JupyterFrontEnd, notebookTracker: INotebookTracker) {
+  constructor(app: JupyterFrontEnd, notebookTracker: INotebookTracker, panel: NotebookPanel) {
     super();
     this.app = app;
     this.notebookTracker = notebookTracker;
@@ -63,7 +63,7 @@ class PackageTool extends NotebookTools.Tool {
         const cellWidget = ReactWidget.create(<PackageSearcher kernelId={session.kernel.id} kernelName={session.kernelDisplayName} uninstalledPackage={''} moduleError={false} layouty={layout}/>);
         layout.addWidget(cellWidget);
         //Experimenting
-        const overlayWidget = new createSearchOverlay();
+        //const overlayWidget = new createSearchOverlay();
       });
     }
   }
