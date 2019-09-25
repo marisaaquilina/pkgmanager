@@ -135,26 +135,12 @@ class SearchOverlay extends React.Component<
     let query;
     const input = searchText ? searchText : this.state.searchText;
     try {
-      query = Private.parseQuery(
-        input,
-        this.props.overlayState.caseSensitive,
-        this.props.overlayState.useRegex
-      );
+      console.log(input);
       this.setState({ errorMessage: '' });
     } catch (e) {
       this.setState({ errorMessage: e.message });
       return;
     }
-
-    if (Private.regexEqual(this.props.overlayState.query, query)) {
-      if (goForward) {
-        this.props.onHightlightNext();
-      } else {
-        this.props.onHighlightPrevious();
-      }
-      return;
-    }
-
     this.props.onStartQuery(query);
   }
 
