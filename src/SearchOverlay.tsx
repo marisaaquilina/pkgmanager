@@ -4,8 +4,12 @@ import { Signal } from '@phosphor/signaling';
 import { Widget } from '@phosphor/widgets';
 import { IDisplayState } from './interfaces';
 import { SearchInstance } from './searchinstance';
+import { PackageSearcher } from './PackageBar';
+import StyleClasses from './style';
 
-const OVERLAY_CLASS = 'jp-DocumentSearch-overlay';
+const PackageBarStyleClasses = StyleClasses.PackageBarStyleClasses;
+
+//const OVERLAY_CLASS = 'jp-DocumentSearch-overlay';
 
 interface ISearchOverlayProps {
   overlayState: IDisplayState;
@@ -20,71 +24,55 @@ interface ISearchOverlayProps {
   isReadOnly: boolean;
 }
 
-interface ISearchEntryProps {
-  onCaseSensitiveToggled: Function;
-  onRegexToggled: Function;
-  onKeydown: Function;
-  onChange: Function;
-  onInputFocus: Function;
-  onInputBlur: Function;
-  inputFocused: boolean;
-  caseSensitive: boolean;
-  useRegex: boolean;
-  searchText: string;
-  forceFocus: boolean;
-}
+// interface ISearchEntryProps {
+//   onCaseSensitiveToggled: Function;
+//   onRegexToggled: Function;
+//   onKeydown: Function;
+//   onChange: Function;
+//   onInputFocus: Function;
+//   onInputBlur: Function;
+//   inputFocused: boolean;
+//   caseSensitive: boolean;
+//   useRegex: boolean;
+//   searchText: string;
+//   forceFocus: boolean;
+// }
 
-class SearchEntry extends React.Component<ISearchEntryProps> {
-  constructor(props: ISearchEntryProps) {
-    super(props);
-  }
+// class SearchEntry extends React.Component<ISearchEntryProps> {
+//   constructor(props: ISearchEntryProps) {
+//     super(props);
+//   }
 
-  /**
-   * Focus the input.
-   */
-  focusInput() {
-    (this.refs.searchInputNode as HTMLInputElement).focus();
-  }
+//   /**
+//    * Focus the input.
+//    */
+//   focusInput() {
+//     (this.refs.searchInputNode as HTMLInputElement).focus();
+//   }
 
-  componentDidUpdate() {
-    if (this.props.forceFocus) {
-      this.focusInput();
-    }
-  }
+//   componentDidUpdate() {
+//     if (this.props.forceFocus) {
+//       this.focusInput();
+//     }
+//   }
 
-  render() {
-    return (
-      <div>
-        <input
-          placeholder={this.props.searchText ? null : 'Find'}
-          value={this.props.searchText}
-          onChange={e => this.props.onChange(e)}
-          onKeyDown={e => this.props.onKeydown(e)}
-          tabIndex={2}
-          onFocus={e => this.props.onInputFocus()}
-          onBlur={e => this.props.onInputBlur()}
-          ref="searchInputNode"
-        />
-        <button
-          onClick={() => this.props.onCaseSensitiveToggled()}
-          tabIndex={4}
-        >
-          <span
-            tabIndex={-1}
-          />
-        </button>
-        <button
-          onClick={() => this.props.onRegexToggled()}
-          tabIndex={5}
-        >
-          <span
-            tabIndex={-1}
-          />
-        </button>
-      </div>
-    );
-  }
-}
+//   render() {
+//     return (
+//       <div>
+//         <input
+//           placeholder={this.props.searchText ? null : 'Package Name'}
+//           value={this.props.searchText}
+//           onChange={e => this.props.onChange(e)}
+//           onKeyDown={e => this.props.onKeydown(e)}
+//           tabIndex={2}
+//           onFocus={e => this.props.onInputFocus()}
+//           onBlur={e => this.props.onInputBlur()}
+//           ref="searchInputNode"
+//         />
+//       </div>
+//     );
+//   }
+// }
 
 class SearchOverlay extends React.Component<
   ISearchOverlayProps,
@@ -101,26 +89,26 @@ class SearchOverlay extends React.Component<
     }
   }
 
-  private _onSearchChange(event: React.ChangeEvent) {
-    const searchText = (event.target as HTMLInputElement).value;
-    this.setState({ searchText: searchText });
-  }
+  // private _onSearchChange(event: React.ChangeEvent) {
+  //   const searchText = (event.target as HTMLInputElement).value;
+  //   this.setState({ searchText: searchText });
+  // }
 
   // private _onReplaceChange(event: React.ChangeEvent) {
   //   this.setState({ replaceText: (event.target as HTMLInputElement).value });
   // }
 
-  private _onSearchKeydown(event: KeyboardEvent) {
-    if (event.keyCode === 13) {
-      event.preventDefault();
-      event.stopPropagation();
-      this._executeSearch(!event.shiftKey);
-    } else if (event.keyCode === 27) {
-      event.preventDefault();
-      event.stopPropagation();
-      this._onClose();
-    }
-  }
+  // private _onSearchKeydown(event: KeyboardEvent) {
+  //   if (event.keyCode === 13) {
+  //     event.preventDefault();
+  //     event.stopPropagation();
+  //     this._executeSearch(!event.shiftKey);
+  //   } else if (event.keyCode === 27) {
+  //     event.preventDefault();
+  //     event.stopPropagation();
+  //     this._onClose();
+  //   }
+  // }
 
   // private _onReplaceKeydown(event: KeyboardEvent) {
   //   if (event.keyCode === 13) {
@@ -149,70 +137,34 @@ class SearchOverlay extends React.Component<
     this.props.onEndSearch();
   }
 
-  private _onReplaceToggled() {
-    this.setState({
-      replaceEntryShown: !this.state.replaceEntryShown
-    });
-  }
+  // private _onReplaceToggled() {
+  //   this.setState({
+  //     replaceEntryShown: !this.state.replaceEntryShown
+  //   });
+  // }
 
-  private _onSearchInputFocus() {
-    if (!this.state.searchInputFocused) {
-      this.setState({ searchInputFocused: true });
-    }
-  }
+  // private _onSearchInputFocus() {
+  //   if (!this.state.searchInputFocused) {
+  //     this.setState({ searchInputFocused: true });
+  //   }
+  // }
 
-  private _onSearchInputBlur() {
-    if (this.state.searchInputFocused) {
-      this.setState({ searchInputFocused: false });
-    }
-  }
+  // private _onSearchInputBlur() {
+  //   if (this.state.searchInputFocused) {
+  //     this.setState({ searchInputFocused: false });
+  //   }
+  // }
 
   render() {
     return [
       <div key={0}>
-        {this.props.isReadOnly ? (
-          <div/>
-        ) : (
-          <button
-            onClick={() => this._onReplaceToggled()}
-            tabIndex={1}
-          >
-            <span/>
-          </button>
-        )}
-        <SearchEntry
-          useRegex={this.props.overlayState.useRegex}
-          caseSensitive={this.props.overlayState.caseSensitive}
-          onCaseSensitiveToggled={() => {
-            this.props.onCaseSensitiveToggled();
-            this._executeSearch(true);
-          }}
-          onRegexToggled={() => {
-            this.props.onRegexToggled();
-            this._executeSearch(true);
-          }}
-          onKeydown={(e: KeyboardEvent) => this._onSearchKeydown(e)}
-          onChange={(e: React.ChangeEvent) => this._onSearchChange(e)}
-          onInputFocus={this._onSearchInputFocus.bind(this)}
-          onInputBlur={this._onSearchInputBlur.bind(this)}
-          inputFocused={this.state.searchInputFocused}
-          searchText={this.state.searchText}
-          forceFocus={this.props.overlayState.forceFocus}
-        />
+        <PackageSearcher kernelId={/*session.kernel.id*/null} kernelName={/*session.kernelDisplayName*/null} uninstalledPackage={''} moduleError={false} layouty={/*layout*/null}/>
         <button
           onClick={() => this._onClose()}
           tabIndex={8}
         >
-          <span
-            tabIndex={-1}
-          />
+          Close
         </button>
-      </div>,
-      <div
-        hidden={this.state.errorMessage && this.state.errorMessage.length === 0}
-        key={3}
-      >
-        {this.state.errorMessage}
       </div>
     ];
   }
@@ -271,6 +223,6 @@ export function createSearchOverlay(
       }}
     </UseSignal>
   );
-  widget.addClass(OVERLAY_CLASS);
+  widget.addClass(PackageBarStyleClasses.overlay);
   return widget;
 }

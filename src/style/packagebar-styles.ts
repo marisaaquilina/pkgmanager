@@ -131,4 +131,16 @@ export namespace PackageBarStyleClasses {
     backgroundPositionY: '50%',
     backgroundSize: '20px',
   });
+  export const overlay = style({
+      position: 'absolute',
+      backgroundColor: 'var(--jp-toolbar-background)',
+      borderBottom: 'var(--jp-border-width) solid var(--jp-toolbar-border-color)',
+      borderLeft: 'var(--jp-border-width) solid var(--jp-toolbar-border-color)',
+      top: 0,
+      right: 0,
+      zIndex: 7,
+      minWidth: 300,
+      padding: 2,
+      fontSize: 'var(--jp-ui-font-size1)'
+  })
 }
