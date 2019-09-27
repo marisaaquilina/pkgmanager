@@ -5,6 +5,13 @@ import {
 import { ICommandPalette, IClientSession } from '@jupyterlab/apputils';
 
 import {
+  ISearchProviderRegistry,
+  SearchProviderRegistry,
+  CodeMirrorSearchProvider,
+  NotebookSearchProvider
+} from '@jupyterlab/documentsearch';
+
+import {
   ConsolePanel,
   IConsoleTracker
 } from '@jupyterlab/console';
@@ -14,7 +21,7 @@ import {
   KernelStatus
 } from '@jupyterlab/statusbar';
 
-//import { SearchInstance } from './SearchInstance';
+import { SearchInstance } from './SearchInstance';
 
 import { IMainMenu } from '@jupyterlab/mainmenu';
 import { Title, Widget } from '@phosphor/widgets';
@@ -51,9 +58,9 @@ const pkginstaller: JupyterFrontEndPlugin<void> = {
  */
 
 
-const extension: JupyterFrontEndPlugin<void> = {
+const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
   id: 'extension1',
-  //provides: ISearchProviderRegistry,
+  provides: ISearchProviderRegistry,
   optional: [ICommandPalette, IMainMenu],
   autoStart: true,
   activate: (
@@ -62,74 +69,74 @@ const extension: JupyterFrontEndPlugin<void> = {
     mainMenu: IMainMenu | null
   ) => {
     // Create registry, retrieve all default providers
-    //const registry: SearchProviderRegistry = new SearchProviderRegistry();
+    const registry: SearchProviderRegistry = new SearchProviderRegistry();
     console.log(app.shell.currentWidget);
     // Register default implementations of the Notebook and CodeMirror search providers
-    // registry.register('jp-notebookSearchProvider', NotebookSearchProvider);
-    // registry.register('jp-codeMirrorSearchProvider', CodeMirrorSearchProvider);
+    registry.register('jp-notebookSearchProvider', NotebookSearchProvider);
+    registry.register('jp-codeMirrorSearchProvider', CodeMirrorSearchProvider);
 
-    // const activeSearches = new Map<string, SearchInstance>();
+    const activeSearches = new Map<string, SearchInstance>();
 
-    // const startCommand: string = 'documentsearch:start';
-    // const nextCommand: string = 'documentsearch:highlightNext';
-    // const prevCommand: string = 'documentsearch:highlightPrevious';
-    // app.commands.addCommand(startCommand, {
-    //   label: 'Find…',
-    //   isEnabled: () => {
-    //     const currentWidget = app.shell.currentWidget;
-    //     if (!currentWidget) {
-    //       return;
-    //     }
-    //     return registry.getProviderForWidget(currentWidget) !== undefined;
-    //   },
-    //   execute: () => {
-    //     const currentWidget = app.shell.currentWidget;
-    //     if (!currentWidget) {
-    //       return;
-    //     }
-    //     const widgetId = currentWidget.id;
-    //     let searchInstance = activeSearches.get(widgetId);
-    //     if (!searchInstance) {
-    //       const searchProvider = registry.getProviderForWidget(currentWidget);
-    //       if (!searchProvider) {
-    //         return;
-    //       }
-    //       searchInstance = new SearchInstance(currentWidget, searchProvider);
+    const startCommand: string = 'documentsearch:start';
+    const nextCommand: string = 'documentsearch:highlightNext';
+    const prevCommand: string = 'documentsearch:highlightPrevious';
+    app.commands.addCommand(startCommand, {
+      label: 'Find…',
+      isEnabled: () => {
+        const currentWidget = app.shell.currentWidget;
+        if (!currentWidget) {
+          return;
+        }
+        return registry.getProviderForWidget(currentWidget) !== undefined;
+      },
+      execute: () => {
+        const currentWidget = app.shell.currentWidget;
+        if (!currentWidget) {
+          return;
+        }
+        const widgetId = currentWidget.id;
+        let searchInstance = activeSearches.get(widgetId);
+        if (!searchInstance) {
+          const searchProvider = registry.getProviderForWidget(currentWidget);
+          if (!searchProvider) {
+            return;
+          }
+          searchInstance = new SearchInstance(currentWidget, searchProvider);
 
-    //       activeSearches.set(widgetId, searchInstance);
-    //       // find next and previous are now enabled
-    //       app.commands.notifyCommandChanged();
+          activeSearches.set(widgetId, searchInstance);
+          // find next and previous are now enabled
+          app.commands.notifyCommandChanged();
 
-    //       searchInstance.disposed.connect(() => {
-    //         activeSearches.delete(widgetId);
-    //         // find next and previous are now not enabled
-    //         app.commands.notifyCommandChanged();
-    //       });
-    //     }
-    //     searchInstance.focusInput();
-    //   }
-    // });
+          searchInstance.disposed.connect(() => {
+            activeSearches.delete(widgetId);
+            // find next and previous are now not enabled
+            app.commands.notifyCommandChanged();
+          });
+        }
+        searchInstance.focusInput();
+      }
+    });
 
     // Add the command to the palette.
-    // if (palette) {
-    //   palette.addItem({ command: startCommand, category: 'Main Area' });
-    //   palette.addItem({ command: nextCommand, category: 'Main Area' });
-    //   palette.addItem({ command: prevCommand, category: 'Main Area' });
-    // }
-    // // Add main menu notebook menu.
-    // if (mainMenu) {
-    //   mainMenu.editMenu.addGroup(
-    //     [
-    //       { command: startCommand },
-    //       { command: nextCommand },
-    //       { command: prevCommand }
-    //     ],
-    //     10
-    //   );
-    // }
+    if (palette) {
+      palette.addItem({ command: startCommand, category: 'Main Area' });
+      palette.addItem({ command: nextCommand, category: 'Main Area' });
+      palette.addItem({ command: prevCommand, category: 'Main Area' });
+    }
+    // Add main menu notebook menu.
+    if (mainMenu) {
+      mainMenu.editMenu.addGroup(
+        [
+          { command: startCommand },
+          { command: nextCommand },
+          { command: prevCommand }
+        ],
+        10
+      );
+    }
 
     // Provide the registry to the system.
-    //return registry;
+    return registry;
   }
 };
 
