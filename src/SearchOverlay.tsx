@@ -12,6 +12,7 @@ const PackageBarStyleClasses = StyleClasses.PackageBarStyleClasses;
 //const OVERLAY_CLASS = 'jp-DocumentSearch-overlay';
 
 interface ISearchOverlayProps {
+  sessionInfo: string;
   overlayState: IDisplayState;
   onCaseSensitiveToggled: Function;
   onRegexToggled: Function;
@@ -158,7 +159,7 @@ class SearchOverlay extends React.Component<
   render() {
     return [
       <div key={0}>
-        <PackageSearcher kernelId={/*session.kernel.id*/null} kernelName={/*session.kernelDisplayName*/null} uninstalledPackage={''} moduleError={false} layouty={/*layout*/null}/>
+        <PackageSearcher kernelId={/*session.kernel.id*/null} kernelName={/*session.kernelDisplayName*/this.props.sessionInfo} uninstalledPackage={''} moduleError={false} layouty={/*layout*/null}/>
         <button
           onClick={() => this._onClose()}
           tabIndex={8}
@@ -211,6 +212,7 @@ export function createSearchOverlay(
       {(_, args) => {
         return (
           <SearchOverlay
+            sessionInfo={sessionInfo}
             onCaseSensitiveToggled={onCaseSensitiveToggled}
             onRegexToggled={onRegexToggled}
             onHightlightNext={onHightlightNext}

@@ -101,7 +101,7 @@ const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
           if (!searchProvider) {
             return;
           }
-          searchInstance = new SearchInstance(currentWidget, searchProvider, 'sadasd');
+          searchInstance = new SearchInstance(currentWidget, searchProvider, Math.random().toString());
 
           activeSearches.set(widgetId, searchInstance);
           // find next and previous are now enabled
@@ -197,7 +197,7 @@ export const kernelStatus: JupyterFrontEndPlugin<void> = {
         currentSession = null;
       }
       item.model!.session = currentSession;
-      console.log("Yay, this works", currentSession);
+      console.log("Yay, this works", currentSession.kernel);
     });
 
     // statusBar.registerStatusItem(

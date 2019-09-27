@@ -886,11 +886,11 @@
         "signature": "2e9fc7121bd52e4938edcf60a1b8b77cedc356cfd0389bfda2a74df0bddfec10"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/searchoverlay.tsx": {
-        "version": "ed7fef64b4b4e918995f8b2f41794985faee4d8018d6dd3a89d757274bd59a13",
+        "version": "90fb7f99e5ba914185ac300dd0d051bd6b5ff78910e093835088600dffeb3a23",
         "signature": "6d9db9861b92c6118ec1247a72aa676749a1c07bf2b7784ad22737726c342528"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/searchinstance.ts": {
-        "version": "e30f0a682fd8c74f0c7d5b78ca717e980ab023572b32b89c12ed652c1e399f6d",
+        "version": "17cfc424b528af2d64320f98231e03c47b41a6ba127ff8d37f8ee1f9fcc06ff6",
         "signature": "30c9ba762f925df6c3f7bcc9e1868e9d52d86f48eedf1212ddbc16c42fc4acb5"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/documentsearch/lib/interfaces.d.ts": {
@@ -1522,7 +1522,7 @@
         "signature": "010d846d1bc4f8d78e82e6075dbe1c9c1028cad3d8e542ed2cae0ebee05db156"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/index.ts": {
-        "version": "840822aa1432bc35cd3428036ab7e2d019b031d90a643f0dc45bf8f1295a3dca",
+        "version": "306577dd051bb8a362dc47a8fc2609a37e60c53a4bdba11da6390b40156b4ab7",
         "signature": "5b359913780bbb68d2d51d11b5cdbae43cf3c2a67e8c52ba904ae4efc8c1ee6d"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/typings/react-inspector.d.ts": {
