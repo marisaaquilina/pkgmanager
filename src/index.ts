@@ -2,7 +2,7 @@ import {
   JupyterFrontEnd, JupyterFrontEndPlugin, ILabShell
 } from '@jupyterlab/application';
 
-import { ICommandPalette } from '@jupyterlab/apputils';
+import { ICommandPalette, IClientSession } from '@jupyterlab/apputils';
 
 import {
   ISearchProviderRegistry,
@@ -11,10 +11,20 @@ import {
   NotebookSearchProvider
 } from '@jupyterlab/documentsearch';
 
+import {
+  ConsolePanel,
+  IConsoleTracker
+} from '@jupyterlab/console';
+
+import {
+  IStatusBar,
+  KernelStatus
+} from '@jupyterlab/statusbar';
+
 import { SearchInstance } from './SearchInstance';
 
 import { IMainMenu } from '@jupyterlab/mainmenu';
-import { Widget } from '@phosphor/widgets';
+import { Title, Widget } from '@phosphor/widgets';
 
 ///Experiments above
 
@@ -27,7 +37,7 @@ import PackageTool from './PackageTool';
 import '../style/index.css';
 
 //Expriments
-const SEARCHABLE_CLASS = 'jp-mod-searchable';
+//const SEARCHABLE_CLASS = 'jp-mod-searchable';
 
 /**
  * Initialization data for the pkginstaller extension.
@@ -46,49 +56,49 @@ const pkginstaller: JupyterFrontEndPlugin<void> = {
 /**
  * Experimnents
  */
-const labShellWidgetListener: JupyterFrontEndPlugin<void> = {
-  id: 'labShellWidgetListener1',
-  requires: [ILabShell, ISearchProviderRegistry],
-  autoStart: true,
-  activate: (
-    app: JupyterFrontEnd,
-    labShell: ILabShell,
-    registry: ISearchProviderRegistry
-  ) => {
-    // If a given widget is searchable, apply the searchable class.
-    // If it's not searchable, remove the class.
-    const transformWidgetSearchability = (widget: Widget) => {
-      if (!widget) {
-        return;
-      }
-      const providerForWidget = registry.getProviderForWidget(widget);
-      if (providerForWidget) {
-        widget.addClass(SEARCHABLE_CLASS);
-      }
-      if (!providerForWidget) {
-        widget.removeClass(SEARCHABLE_CLASS);
-      }
-    };
+// const labShellWidgetListener: JupyterFrontEndPlugin<void> = {
+//   id: 'labShellWidgetListener1',
+//   requires: [ILabShell, ISearchProviderRegistry],
+//   autoStart: true,
+//   activate: (
+//     app: JupyterFrontEnd,
+//     labShell: ILabShell,
+//     registry: ISearchProviderRegistry
+//   ) => {
+//     // If a given widget is searchable, apply the searchable class.
+//     // If it's not searchable, remove the class.
+//     const transformWidgetSearchability = (widget: Widget) => {
+//       if (!widget) {
+//         return;
+//       }
+//       const providerForWidget = registry.getProviderForWidget(widget);
+//       if (providerForWidget) {
+//         widget.addClass(SEARCHABLE_CLASS);
+//       }
+//       if (!providerForWidget) {
+//         widget.removeClass(SEARCHABLE_CLASS);
+//       }
+//     };
 
-    // Update searchability of the active widget when the registry
-    // changes, in case a provider for the current widget was added
-    // or removed
-    registry.changed.connect(() =>
-      transformWidgetSearchability(labShell.activeWidget)
-    );
+//     // Update searchability of the active widget when the registry
+//     // changes, in case a provider for the current widget was added
+//     // or removed
+//     registry.changed.connect(() =>
+//       transformWidgetSearchability(labShell.activeWidget)
+//     );
 
-    // Apply the searchable class only to the active widget if it is actually
-    // searchable. Remove the searchable class from a widget when it's
-    // no longer active.
-    labShell.activeChanged.connect((_, args) => {
-      const oldWidget = args.oldValue;
-      if (oldWidget) {
-        oldWidget.removeClass(SEARCHABLE_CLASS);
-      }
-      transformWidgetSearchability(args.newValue);
-    });
-  }
-};
+//     // Apply the searchable class only to the active widget if it is actually
+//     // searchable. Remove the searchable class from a widget when it's
+//     // no longer active.
+//     labShell.activeChanged.connect((_, args) => {
+//       const oldWidget = args.oldValue;
+//       if (oldWidget) {
+//         oldWidget.removeClass(SEARCHABLE_CLASS);
+//       }
+//       transformWidgetSearchability(args.newValue);
+//     });
+//   }
+// };
 
 const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
   id: 'extension1',
@@ -149,54 +159,6 @@ const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
       }
     });
 
-    app.commands.addCommand(nextCommand, {
-      label: 'Find Next',
-      isEnabled: () => {
-        const currentWidget = app.shell.currentWidget;
-        if (!currentWidget) {
-          return;
-        }
-        return activeSearches.has(currentWidget.id);
-      },
-      execute: async () => {
-        const currentWidget = app.shell.currentWidget;
-        if (!currentWidget) {
-          return;
-        }
-        const instance = activeSearches.get(currentWidget.id);
-        if (!instance) {
-          return;
-        }
-
-        await instance.provider.highlightNext();
-        instance.updateIndices();
-      }
-    });
-
-    app.commands.addCommand(prevCommand, {
-      label: 'Find Previous',
-      isEnabled: () => {
-        const currentWidget = app.shell.currentWidget;
-        if (!currentWidget) {
-          return;
-        }
-        return activeSearches.has(currentWidget.id);
-      },
-      execute: async () => {
-        const currentWidget = app.shell.currentWidget;
-        if (!currentWidget) {
-          return;
-        }
-        const instance = activeSearches.get(currentWidget.id);
-        if (!instance) {
-          return;
-        }
-
-        await instance.provider.highlightPrevious();
-        instance.updateIndices();
-      }
-    });
-
     // Add the command to the palette.
     if (palette) {
       palette.addItem({ command: startCommand, category: 'Main Area' });
@@ -220,7 +182,85 @@ const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
   }
 };
 
+/**
+ * A plugin that provides a kernel status item to the status bar.
+ */
+export const kernelStatus: JupyterFrontEndPlugin<void> = {
+  id: 'randyykernel',
+  autoStart: true,
+  requires: [IStatusBar, INotebookTracker, IConsoleTracker, ILabShell],
+  activate: (
+    app: JupyterFrontEnd,
+    statusBar: IStatusBar,
+    notebookTracker: INotebookTracker,
+    consoleTracker: IConsoleTracker,
+    labShell: ILabShell
+  ) => {
+    // When the status item is clicked, launch the kernel
+    // selection dialog for the current session.
+    let currentSession: IClientSession | null = null;
+    const changeKernel = async () => {
+      if (!currentSession) {
+        return;
+      }
+      await currentSession.selectKernel();
+    };
+
+    // Create the status item.
+    const item = new KernelStatus({
+      onClick: changeKernel
+    });
+
+    // When the title of the active widget changes, update the label
+    // of the hover text.
+    const onTitleChanged = (title: Title<Widget>) => {
+      item.model!.activityName = title.label;
+    };
+
+    // Keep the session object on the status item up-to-date.
+    labShell.currentChanged.connect((_, change) => {
+      const { oldValue, newValue } = change;
+
+      // Clean up after the old value if it exists,
+      // listen for changes to the title of the activity
+      if (oldValue) {
+        oldValue.title.changed.disconnect(onTitleChanged);
+      }
+      if (newValue) {
+        newValue.title.changed.connect(onTitleChanged);
+      }
+
+      // Grab the session off of the current widget, if it exists.
+      if (newValue && consoleTracker.has(newValue)) {
+        currentSession = (newValue as ConsolePanel).session;
+      } else if (newValue && notebookTracker.has(newValue)) {
+        currentSession = (newValue as NotebookPanel).session;
+      } else {
+        currentSession = null;
+      }
+      item.model!.session = currentSession;
+    });
+
+    // statusBar.registerStatusItem(
+    //   'statusyy',
+    //   {
+    //     item,
+    //     align: 'left',
+    //     rank: 1,
+    //     isActive: () => {
+    //       const current = labShell.currentWidget;
+    //       return (
+    //         current &&
+    //         (notebookTracker.has(current) || consoleTracker.has(current))
+    //       );
+    //     }
+    //   }
+    // );
+  }
+};
+
+
 
 export default [
-  pkginstaller, extension, labShellWidgetListener
+  pkginstaller, extension, kernelStatus
 ];
