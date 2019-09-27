@@ -13,7 +13,7 @@ import { Widget } from '@phosphor/widgets';
  * Represents a search on a single widget.
  */
 export class SearchInstance implements IDisposable {
-  constructor(widget: Widget, searchProvider: ISearchProvider) {
+  constructor(widget: Widget, searchProvider: ISearchProvider, searchInfo: any) {
     this._widget = widget;
     this._activeProvider = searchProvider;
 
@@ -21,7 +21,7 @@ export class SearchInstance implements IDisposable {
     this._displayState.searchText = initialQuery || '';
 
     this._searchWidget = createSearchOverlay({
-      sessionInfo: 'randomSessionInfo',
+      sessionInfo: 'randomSearchInfo',
       widgetChanged: this._displayUpdateSignal,
       overlayState: this._displayState,
       onCaseSensitiveToggled: this._onCaseSensitiveToggled.bind(this),

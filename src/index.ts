@@ -101,7 +101,7 @@ const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
           if (!searchProvider) {
             return;
           }
-          searchInstance = new SearchInstance(currentWidget, searchProvider);
+          searchInstance = new SearchInstance(currentWidget, searchProvider, 'sadasd');
 
           activeSearches.set(widgetId, searchInstance);
           // find next and previous are now enabled
