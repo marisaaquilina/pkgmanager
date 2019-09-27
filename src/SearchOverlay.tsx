@@ -168,11 +168,11 @@ class SearchOverlay extends React.Component<
       </div>
     ];
   }
-
 }
 
 namespace createSearchOverlay {
   export interface IOptions {
+    sessionInfo: any;
     widgetChanged: Signal<SearchInstance, IDisplayState>;
     overlayState: IDisplayState;
     onCaseSensitiveToggled: Function;
@@ -191,6 +191,7 @@ export function createSearchOverlay(
   options: createSearchOverlay.IOptions
 ): Widget {
   const {
+    sessionInfo,
     widgetChanged,
     overlayState,
     onCaseSensitiveToggled,
@@ -203,6 +204,8 @@ export function createSearchOverlay(
     onEndSearch,
     isReadOnly
   } = options;
+  sessionInfo;
+  console.log(sessionInfo);
   const widget = ReactWidget.create(
     <UseSignal signal={widgetChanged} initialArgs={overlayState}>
       {(_, args) => {

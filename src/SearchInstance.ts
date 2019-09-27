@@ -21,6 +21,7 @@ export class SearchInstance implements IDisposable {
     this._displayState.searchText = initialQuery || '';
 
     this._searchWidget = createSearchOverlay({
+      sessionInfo: 'randomSessionInfo',
       widgetChanged: this._displayUpdateSignal,
       overlayState: this._displayState,
       onCaseSensitiveToggled: this._onCaseSensitiveToggled.bind(this),

@@ -886,11 +886,11 @@
         "signature": "2e9fc7121bd52e4938edcf60a1b8b77cedc356cfd0389bfda2a74df0bddfec10"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/searchoverlay.tsx": {
-        "version": "9d9d0186cdb0f337e6492be85291a74db909feb41071b834d54edb0e49e00ed5",
-        "signature": "5735c099e319ce3e77f88ffd263070371475cf5b8c8769dd88a8025d5e98c3bb"
+        "version": "2453a49d78e58cf2b755ae1c48fad7a47e76efd628dcaee245f2b8437d07b1e7",
+        "signature": "6d9db9861b92c6118ec1247a72aa676749a1c07bf2b7784ad22737726c342528"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/searchinstance.ts": {
-        "version": "56ba6325f5689b9d6c40a06ce9c6fbcf7688ffa07c5d53743b08f28778bc74cb",
+        "version": "ec54beb1a104b57ff138f138f47e00532c736394060f7631550f061038b98cfc",
         "signature": "314b734750a5e12731ee0780c96cedc00f72e84bf7f26e3b21f60b297f980aab"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/documentsearch/lib/interfaces.d.ts": {
