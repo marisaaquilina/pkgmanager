@@ -83,11 +83,11 @@ class SearchOverlay extends React.Component<
     this.state = props.overlayState;
   }
 
-  componentDidMount() {
-    if (this.state.searchText) {
-      this._executeSearch(true, this.state.searchText);
-    }
-  }
+  // componentDidMount() {
+  //   if (this.state.searchText) {
+  //     this._executeSearch(true, this.state.searchText);
+  //   }
+  // }
 
   // private _onSearchChange(event: React.ChangeEvent) {
   //   const searchText = (event.target as HTMLInputElement).value;
@@ -118,19 +118,19 @@ class SearchOverlay extends React.Component<
   //   }
   // }
 
-  private _executeSearch(goForward: boolean, searchText?: string) {
-    // execute search!
-    let query;
-    const input = searchText ? searchText : this.state.searchText;
-    try {
-      console.log(input);
-      this.setState({ errorMessage: '' });
-    } catch (e) {
-      this.setState({ errorMessage: e.message });
-      return;
-    }
-    this.props.onStartQuery(query);
-  }
+  // private _executeSearch(goForward: boolean, searchText?: string) {
+  //   // execute search!
+  //   let query;
+  //   const input = searchText ? searchText : this.state.searchText;
+  //   try {
+  //     console.log(input);
+  //     this.setState({ errorMessage: '' });
+  //   } catch (e) {
+  //     this.setState({ errorMessage: e.message });
+  //     return;
+  //   }
+  //   this.props.onStartQuery(query);
+  // }
 
   private _onClose() {
     // Clean up and close widget.
