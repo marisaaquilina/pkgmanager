@@ -32,6 +32,7 @@ class PackageTool extends NotebookTools.Tool {
     this.app = app;
     this.notebookTracker = notebookTracker;
     this.layout = new PanelLayout();
+    this.session;
   } 
   protected onAfterAttach(msg: Message): void {
     this.notebookTracker.currentWidget.session.ready.then(() => {
@@ -44,6 +45,7 @@ class PackageTool extends NotebookTools.Tool {
       let model = new KernelSpyModel(session.kernel! as Kernel.IKernel);
       const view = new MessageLogView(model, session.kernel.id, session.kernelDisplayName, layout);
       layout.addWidget(view);
+      this.session = session;
       const cellWidget = ReactWidget.create(<PackageSearcher kernelId={session.kernel.id} kernelName={session.kernelDisplayName} uninstalledPackage={''} moduleError={false} layouty={layout}/>);
       layout.addWidget(cellWidget);
     });
@@ -69,6 +71,7 @@ class PackageTool extends NotebookTools.Tool {
   }
   
   private notebookTracker:INotebookTracker;
+  private session:any;
 }
 
 export default PackageTool;
