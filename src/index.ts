@@ -18,8 +18,9 @@ import {
 
 import {
   IStatusBar,
-  KernelStatus
 } from '@jupyterlab/statusbar';
+
+import {KernelStatus} from './KernelStatus';
 
 import { SearchInstance } from './SearchInstance';
 
@@ -49,7 +50,6 @@ const pkginstaller: JupyterFrontEndPlugin<void> = {
   activate: (app: JupyterFrontEnd, cellTools: INotebookTools, notebookTracker: INotebookTracker, panel: NotebookPanel) => {  
     const packageTool = new PackageTool(app, notebookTracker, panel);
     cellTools.addItem({ tool: packageTool });
-    console.log(':-))))');
   }
 };
 
@@ -197,7 +197,7 @@ export const kernelStatus: JupyterFrontEndPlugin<void> = {
         currentSession = null;
       }
       item.model!.session = currentSession;
-      console.log("Yay, this works", currentSession.kernel);
+      console.log("Yay, this works", item.model.kernelName);
     });
 
     // statusBar.registerStatusItem(
