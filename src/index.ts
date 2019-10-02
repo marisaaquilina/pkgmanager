@@ -78,8 +78,6 @@ const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
     const activeSearches = new Map<string, SearchInstance>();
 
     const startCommand: string = 'documentsearch:start';
-    const nextCommand: string = 'documentsearch:highlightNext';
-    const prevCommand: string = 'documentsearch:highlightPrevious';
     app.commands.addCommand(startCommand, {
       label: 'Find…',
       isEnabled: () => {
@@ -120,16 +118,12 @@ const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
     // Add the command to the palette.
     if (palette) {
       palette.addItem({ command: startCommand, category: 'Main Area' });
-      palette.addItem({ command: nextCommand, category: 'Main Area' });
-      palette.addItem({ command: prevCommand, category: 'Main Area' });
     }
     // Add main menu notebook menu.
     if (mainMenu) {
       mainMenu.editMenu.addGroup(
         [
-          { command: startCommand },
-          { command: nextCommand },
-          { command: prevCommand }
+          { command: startCommand }
         ],
         10
       );
