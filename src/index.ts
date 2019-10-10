@@ -45,8 +45,8 @@ import '../style/index.css';
 const pkginstaller: JupyterFrontEndPlugin<void> = {
   id: 'pkginstaller',
   autoStart: true,
-  requires: [INotebookTools, INotebookTracker],
-  activate: (app: JupyterFrontEnd, cellTools: INotebookTools, notebookTracker: INotebookTracker, panel: NotebookPanel) => {  
+  requires: [INotebookTools, INotebookTracker, IMainMenu],
+  activate: (app: JupyterFrontEnd, cellTools: INotebookTools, notebookTracker: INotebookTracker, panel: NotebookPanel, mainMenu: IMainMenu) => {  
     const packageTool = new PackageTool(app, notebookTracker, panel);
     cellTools.addItem({ tool: packageTool });
     console.log(':-))))');
@@ -76,6 +76,7 @@ const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
     registry.register('jp-codeMirrorSearchProvider', CodeMirrorSearchProvider);
 
     const activeSearches = new Map<string, SearchInstance>();
+    
 
     const startCommand: string = 'documentsearch:start';
     app.commands.addCommand(startCommand, {
@@ -119,9 +120,10 @@ const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
     if (palette) {
       palette.addItem({ command: startCommand, category: 'Main Area' });
     }
+    
     // Add main menu notebook menu.
     if (mainMenu) {
-      mainMenu.editMenu.addGroup(
+      mainMenu.kernelMenu.addGroup(
         [
           { command: startCommand }
         ],

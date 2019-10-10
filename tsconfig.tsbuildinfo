@@ -1522,11 +1522,7 @@
         "signature": "010d846d1bc4f8d78e82e6075dbe1c9c1028cad3d8e542ed2cae0ebee05db156"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/index.ts": {
-<<<<<<< HEAD
-        "version": "2bb5091fbd3f0d27f70c390f7f92694d7574e28de5b7a6edbaaf182dc7625ea7",
-=======
-        "version": "306577dd051bb8a362dc47a8fc2609a37e60c53a4bdba11da6390b40156b4ab7",
->>>>>>> parent of 9ee8604... Switched kernel.name to model.kernelName
+        "version": "a58d026e1f4f00e4920d5bf02b9c1e817c46dd7ab3e4fa1ddc65b251de0a303f",
         "signature": "5b359913780bbb68d2d51d11b5cdbae43cf3c2a67e8c52ba904ae4efc8c1ee6d"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/typings/react-inspector.d.ts": {
