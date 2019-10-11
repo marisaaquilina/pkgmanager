@@ -2,7 +2,7 @@ import { style } from 'typestyle';
 
 export namespace PackageBarStyleClasses {
   export const packageContainer = style({
-    padding: '2em 1em',
+    padding: '0em 1em',
     display: 'flex',
     flexDirection: 'column',
     margin: 'auto',
@@ -87,10 +87,8 @@ export namespace PackageBarStyleClasses {
     lineHeight: '21px',
     color: 'var(--jp-ui-font-color1)',
   });
-  export const search = style({
-    marginTop: '1em',
+  export const flexContainer = style({
     display: 'flex',
-    flexDirection: 'column',
   });
   export const messageText = style({
     color: 'var(--jp-ui-font-color2)',
@@ -105,7 +103,6 @@ export namespace PackageBarStyleClasses {
     alignItems: 'flex-end',
     minHeight: '2.5em',
     textTransform: 'uppercase',
-    letterSpacing: '0.06em',
     color: 'var(--jp-ui-font-color2)',
     fontWeight: 'bold',
     fontSize: 'var(--jp-ui-font-size0)',

@@ -135,9 +135,9 @@ export function PackageSearcher(props: PackageSearcherProps) {
     <div className={PackageBarStyleClasses.packageContainer}>
       {/* <p className={PackageBarStyleClasses.title}>Package Installer</p> */}
       {/* <p className={PackageBarStyleClasses.topBar}>Current Environment: {props.kernelName}</p> */}
-      <div className={PackageBarStyleClasses.search}>
+      <p className={[PackageBarStyleClasses.searchTitle, PackageBarStyleClasses.flexContainer].join(' ')}>Install Packages in Python 0.{props.kernelName.substr(-1)}</p>
+      <div className={PackageBarStyleClasses.flexContainer}>
         <div className={PackageBarStyleClasses.heading}>
-          <p className={PackageBarStyleClasses.searchTitle}>Install Packages in {props.kernelName}</p>
           {isProcessing && <p className={PackageBarStyleClasses.messageText}>Working... Please wait.</p>}
           {!isProcessing && showMessage && <p className={PackageBarStyleClasses.messageText}>{getPipMessage(install, successfulProcess, packageToProcess)}</p>}
         </div>
@@ -155,16 +155,16 @@ export function PackageSearcher(props: PackageSearcherProps) {
               name='packageToProcess'
               required
         />}
-      </div>
-      <div className={PackageBarStyleClasses.buttonContainer}>
-        <button className={PackageBarStyleClasses.pipButton}
-        onClick={() => {sendRequest(input, true); setInstall(true);}}>
-          Install
-        </button>
-        <button className={PackageBarStyleClasses.pipButton}
-        onClick={() => {sendRequest(input, false); setInstall(false);}}>
-          Uninstall
-        </button>
+        <div className={PackageBarStyleClasses.buttonContainer}>
+          <button className={PackageBarStyleClasses.pipButton}
+          onClick={() => {sendRequest(input, true); setInstall(true);}}>
+            Install
+          </button>
+          <button className={PackageBarStyleClasses.pipButton}
+          onClick={() => {sendRequest(input, false); setInstall(false);}}>
+            Uninstall
+          </button>
+        </div>
       </div>
       {successfulProcess && showMessage && !isProcessing && <p className={PackageBarStyleClasses.kernelPrompt}>You may need to update the kernel to see updated packages.</p>}
       {showMessage && <Dropdown stdOut={stdOut}/>}

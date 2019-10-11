@@ -130,8 +130,8 @@
         "signature": "19c36cf5f5046e07eaf957cc01255f4fe3446d54087354ad617cfec7e1d962a4"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/style/packagebar-styles.ts": {
-        "version": "56ffd35c87c662d744d4ca3e811c39ef0abf27864269c6f17dde6596f913ef9c",
-        "signature": "c9f371af019194f85d0b840952132fabdc36373b557c23b38a41d92ff002333e"
+        "version": "d9b6cae20f4949333030faa8d963dbff47b9dedd6481623e46becb34056e4fef",
+        "signature": "927965105264af10ab631c90409ce5e65ddca52c425e5baed745a7b02a02c16c"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/style/index.ts": {
         "version": "6a09bcf8d15bc16782cc8a89669e346cdd9a679d3cab7526f90ac21f3238b362",
@@ -634,7 +634,7 @@
         "signature": "a5f8ea1b7c2c8701f998a5ac0bad45b16afbb9daa462f728218ff9470c23640b"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/packagebar.tsx": {
-        "version": "7079c406b5625726a255cf1dce9a19ec9787e4c4749a44332b0b11349770728c",
+        "version": "dd95235b89ea05440f65e3978e72c635740042d08b4779ea784d5fde92e968d5",
         "signature": "5f49faee764659fe969367acd1c5a248f8228eac80baf8054b8d181bd9a7d094"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/application/lib/tokens.d.ts": {
