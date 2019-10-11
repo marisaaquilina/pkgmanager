@@ -133,15 +133,15 @@ export function PackageSearcher(props: PackageSearcherProps) {
   }
   return (
     <div className={PackageBarStyleClasses.packageContainer}>
-      <p className={PackageBarStyleClasses.title}>Package Installer</p>
-      <p className={PackageBarStyleClasses.topBar}>Current Environment: {props.kernelName}</p>
+      {/* <p className={PackageBarStyleClasses.title}>Package Installer</p> */}
+      {/* <p className={PackageBarStyleClasses.topBar}>Current Environment: {props.kernelName}</p> */}
       <div className={PackageBarStyleClasses.search}>
         <div className={PackageBarStyleClasses.heading}>
-          <p className={PackageBarStyleClasses.searchTitle}>Package Name</p>
+          <p className={PackageBarStyleClasses.searchTitle}>Install Packages in {props.kernelName}</p>
           {isProcessing && <p className={PackageBarStyleClasses.messageText}>Working... Please wait.</p>}
           {!isProcessing && showMessage && <p className={PackageBarStyleClasses.messageText}>{getPipMessage(install, successfulProcess, packageToProcess)}</p>}
         </div>
-        {!moduleErrorOccurred && <input id='result' className={PackageBarStyleClasses.packageInput}
+        {!moduleErrorOccurred && <input id='result' className={PackageBarStyleClasses.packageInput} placeholder='PyPI Package Name'
               value={input} 
               onChange={e => setInput(e.target.value)}
               type='text'
