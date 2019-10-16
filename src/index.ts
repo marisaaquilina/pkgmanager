@@ -5,12 +5,12 @@ import {
 import { ICommandPalette, IClientSession } from '@jupyterlab/apputils';
 
 import {
-  ISearchProviderRegistry,
   SearchProviderRegistry,
   CodeMirrorSearchProvider,
   NotebookSearchProvider
 } from '@jupyterlab/documentsearch';
 
+import {IPackageInstallerRegistry} from './tokens'
 import {
   ConsolePanel,
   IConsoleTracker
@@ -58,9 +58,9 @@ const pkginstaller: JupyterFrontEndPlugin<void> = {
  */
 
 
-const extension: JupyterFrontEndPlugin<ISearchProviderRegistry> = {
+const extension: JupyterFrontEndPlugin<IPackageInstallerRegistry> = {
   id: 'extension1',
-  provides: ISearchProviderRegistry,
+  provides: IPackageInstallerRegistry,
   optional: [ICommandPalette, IMainMenu],
   autoStart: true,
   activate: (
