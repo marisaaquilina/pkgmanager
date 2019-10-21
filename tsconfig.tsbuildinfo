@@ -102,8 +102,8 @@
         "signature": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/csstype/index.d.ts": {
-        "version": "599c67cf56a35a8a7bee5bcd877dece4cb71553efb763ebf1050c6987acfaefc",
-        "signature": "599c67cf56a35a8a7bee5bcd877dece4cb71553efb763ebf1050c6987acfaefc"
+        "version": "9e89b1bb8360de8b984781243a920ac631ac5261cf7bf882e556c6c7dbf2e4ee",
+        "signature": "9e89b1bb8360de8b984781243a920ac631ac5261cf7bf882e556c6c7dbf2e4ee"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/prop-types/index.d.ts": {
         "version": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
@@ -130,20 +130,20 @@
         "signature": "19c36cf5f5046e07eaf957cc01255f4fe3446d54087354ad617cfec7e1d962a4"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/style/packagebar-styles.ts": {
-        "version": "e02aec72f865e3c9d1793d6636a9ceeb2f870451c3335d6493c0b8e24e538909",
-        "signature": "43da8a90a0ece09fa85f3c386d495e2a8308840b3dafcdb62bae3873292df254"
+        "version": "d07172dc5f23814954f7c9d36631423bf0e41811b7ecc8f3194a05e0d61598d4",
+        "signature": "c0f1774a388a1f684835d7a06383d30b949306a4642becb4219880677c5565ba"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/style/index.ts": {
         "version": "6a09bcf8d15bc16782cc8a89669e346cdd9a679d3cab7526f90ac21f3238b362",
         "signature": "1b90d012205d223c41c65a4149674203d9c94dd18155df38d7742d8279a08cd1"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/dropdown.tsx": {
-        "version": "18db11d5d68f45b0eb423e22c6a0d523a0814ac905634bc1b25551187ae4020e",
+        "version": "ecdb0bdd2bb70753d42b8d752d9f06a63e64ba8157302f60aafb89c0decaaba1",
         "signature": "4a7ab8e96b64d6a1a722392a71c0f8bebeae6581c2edc297dd48c11b4ec8c931"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts": {
-        "version": "c8a24a2440a34aea602f23947c59ce8d9d3bbd5301fd80160e9067b3ac3cce6b",
-        "signature": "c8a24a2440a34aea602f23947c59ce8d9d3bbd5301fd80160e9067b3ac3cce6b"
+        "version": "e29b5eb559a057d36584ec480d49711f0c81bed176bb6256df584e800c453760",
+        "signature": "e29b5eb559a057d36584ec480d49711f0c81bed176bb6256df584e800c453760"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/widgets/lib/boxengine.d.ts": {
         "version": "518f0974b55341500d4234068f32fa9750c3d373f41edebbb99c47798b2d102b",
@@ -226,8 +226,8 @@
         "signature": "30a8688575aeada46c1268d671b2a1de78705ebc0d5343e75b96c25f149caa98"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts": {
-        "version": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3",
-        "signature": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3"
+        "version": "57e52fd41767e09990c28cd092037736625b3c492c412d7b5c72282a4a97e2be",
+        "signature": "57e52fd41767e09990c28cd092037736625b3c492c412d7b5c72282a4a97e2be"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/widgets/lib/title.d.ts": {
         "version": "02906328718f740db2bd453ed956e9b954b5ca10511695a44f6e8c25c3db8a40",
@@ -634,7 +634,7 @@
         "signature": "a5f8ea1b7c2c8701f998a5ac0bad45b16afbb9daa462f728218ff9470c23640b"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/src/packagebar.tsx": {
-        "version": "cc9b4ba2c4d89a6b83058060367f5944501761ec581aed792514c283c30bf15e",
+        "version": "bfe04696f58cc7e333638a52ae4396cc3e25c572e3954628ec9a739c12bf345d",
         "signature": "5f49faee764659fe969367acd1c5a248f8228eac80baf8054b8d181bd9a7d094"
       },
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/application/lib/tokens.d.ts": {
@@ -1089,13 +1089,17 @@
         "version": "cc0fca544c9ee63d754899e93ebae35c8ba8304a100126b9c3dadee2c91a2250",
         "signature": "cc0fca544c9ee63d754899e93ebae35c8ba8304a100126b9c3dadee2c91a2250"
       },
-      "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts": {
-        "version": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3",
-        "signature": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3"
+      "/users/marisaaquilina/node_modules/@phosphor/algorithm/lib/index.d.ts": {
+        "version": "30a8688575aeada46c1268d671b2a1de78705ebc0d5343e75b96c25f149caa98",
+        "signature": "30a8688575aeada46c1268d671b2a1de78705ebc0d5343e75b96c25f149caa98"
       },
       "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts": {
         "version": "c8a24a2440a34aea602f23947c59ce8d9d3bbd5301fd80160e9067b3ac3cce6b",
         "signature": "c8a24a2440a34aea602f23947c59ce8d9d3bbd5301fd80160e9067b3ac3cce6b"
+      },
+      "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts": {
+        "version": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3",
+        "signature": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3"
       },
       "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts": {
         "version": "4f861319baee7ad939c8126e954bd0040e04932c1bd85c524b860573d2e2b949",
@@ -1108,10 +1112,6 @@
       "/users/marisaaquilina/node_modules/@phosphor/messaging/lib/index.d.ts": {
         "version": "6d4bce054cce22306edccc85e738a800ea0364a82e85f9bf61156ed03604d24f",
         "signature": "6d4bce054cce22306edccc85e738a800ea0364a82e85f9bf61156ed03604d24f"
-      },
-      "/users/marisaaquilina/node_modules/@phosphor/algorithm/lib/index.d.ts": {
-        "version": "30a8688575aeada46c1268d671b2a1de78705ebc0d5343e75b96c25f149caa98",
-        "signature": "30a8688575aeada46c1268d671b2a1de78705ebc0d5343e75b96c25f149caa98"
       },
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts": {
         "version": "4ffdec1767c34caf11f05dfff93cd40b2aa2281df29c0bf190a6487af82198cf",
@@ -2927,15 +2927,6 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/token.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/uuid.d.ts"
       ],
-      "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
       "/users/marisaaquilina/node_modules/@phosphor/algorithm/lib/index.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/array.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/chain.d.ts",
@@ -2955,20 +2946,29 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/take.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/zip.d.ts"
       ],
+      "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
@@ -3002,18 +3002,18 @@
         "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/contextmenu.d.ts": [
         "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
@@ -3028,14 +3028,14 @@
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/dockpanel.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/docklayout.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/focustracker.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/gridlayout.d.ts": [
@@ -3053,7 +3053,7 @@
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/scrollbar.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/singletonlayout.d.ts": [
@@ -3078,13 +3078,13 @@
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabpanel.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
@@ -3120,8 +3120,8 @@
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablejson.d.ts": [
@@ -3130,22 +3130,22 @@
         "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablestring.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablelist.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablelist.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablestring.d.ts",
@@ -3162,19 +3162,19 @@
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/contents/index.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts": [
         "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/dataconnector.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
@@ -3183,8 +3183,8 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/poll.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/ratelimiter.d.ts": [
@@ -3193,27 +3193,27 @@
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/poll.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/restorablepool.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/statedb.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts"
       ],
@@ -3246,15 +3246,15 @@
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/messages.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/manager.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts"
       ],
@@ -3272,15 +3272,15 @@
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/session.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/manager.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/session.d.ts"
@@ -3296,14 +3296,14 @@
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/manager.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts"
       ],
@@ -3318,8 +3318,8 @@
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/manager.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/builder/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/contents/index.d.ts",
@@ -3346,26 +3346,26 @@
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/clientsession.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/clipboard.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/collapse.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/commandlinker.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/commandpalette.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@types/react/index.d.ts": [
@@ -3375,8 +3375,8 @@
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/widgettracker.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/dialog.d.ts": [
@@ -3392,9 +3392,9 @@
         "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/dialog.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/vdom.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/react/index.d.ts"
       ],
@@ -3421,20 +3421,20 @@
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/splash.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/tokens.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/thememanager.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/splash.d.ts",
         "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/tokens.d.ts"
       ],
@@ -3467,7 +3467,7 @@
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/mainmenu/lib/labmenu.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/mainmenu/lib/file.d.ts": [
@@ -3663,7 +3663,7 @@
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/mainmenu/lib/labmenu.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/mainmenu/lib/index.d.ts": [
@@ -3744,9 +3744,9 @@
         "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/printing.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/vdom.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
         "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/react/index.d.ts"
       ],
@@ -4302,443 +4302,6 @@
       ],
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/apputils/lib/inputdialog.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/apputils/lib/dialog.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/thememanager.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/splash.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/tokens.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/tokens.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/widgettracker.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/collapse.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/clientsession.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/manager.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/builder/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/contents/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/setting/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/workspace/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/config/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/contents/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/manager.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/setting/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/workspace/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/builder/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/manager.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/manager.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/session.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/manager.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/session.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/manager.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/session.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/manager.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/manager.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/messages.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/messages.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/messages.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/contents/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/config/index.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/statedb.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/dataconnector.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/markdowncodeblocks.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/nbformat.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/pageconfig.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/path.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/poll.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/ratelimiter.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/restorablepool.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/statedb.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/text.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/time.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/url.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/workspace/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/setting/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/restorablepool.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/poll.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/ratelimiter.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/poll.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts": [
-        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/dataconnector.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablestring.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablelist.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablestring.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablestring.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablejson.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablelist.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablelist.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabpanel.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts": [
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxengine.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxlayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxpanel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/commandpalette.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/contextmenu.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/docklayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/dockpanel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/focustracker.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/gridlayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menubar.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/scrollbar.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/singletonlayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitlayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitpanel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabpanel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/spinner.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/printing.d.ts": [
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/iframe.d.ts": [
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/commandpalette.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/scrollbar.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/focustracker.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/dockpanel.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/docklayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/docklayout.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts": [
-        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menubar.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/contextmenu.d.ts": [
-        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitpanel.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitlayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitlayout.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/singletonlayout.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/gridlayout.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/commandpalette.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxpanel.d.ts": [
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxlayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts": [
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxlayout.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/commandlinker.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts"
-      ],
-      "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/statusbar/lib/tokens.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts",
@@ -5343,13 +4906,338 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
-      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/splash.d.ts": [
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
-        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts"
-      ],
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/apputils/lib/splash.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/spinner.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/collapse.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablejson.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablelist.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablestring.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/contents/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/config/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/contents/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/manager.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/setting/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/workspace/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/builder/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/clientsession.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/manager.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/manager.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/manager.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/builder/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/contents/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/setting/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/workspace/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/terminal/terminal.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/session.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/manager.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/session.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/manager.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/session/session.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/manager.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/manager.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/messages.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/messages.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/messages.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/kernel/kernel.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/config/index.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablestring.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablestring.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablemap.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/modeldb.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxengine.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxlayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxpanel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/commandpalette.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/contextmenu.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/docklayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/dockpanel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/focustracker.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/gridlayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menubar.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/scrollbar.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/singletonlayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitlayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitpanel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabpanel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/thememanager.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/splash.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/tokens.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/printing.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/iframe.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/widgettracker.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/commandpalette.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabpanel.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitpanel.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitlayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/splitlayout.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/scrollbar.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menubar.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/gridlayout.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/dockpanel.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/docklayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/docklayout.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/tabbar.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/contextmenu.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/menu.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/commandpalette.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxlayout.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxpanel.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxlayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/singletonlayout.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panel.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/focustracker.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@phosphor/algorithm/lib/index.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/array.d.ts",
@@ -5388,6 +5276,115 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/string.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/take.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/zip.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablelist.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/observables/lib/observablelist.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/tokens.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/splash.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/apputils/lib/commandlinker.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/virtualdom/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/dataconnector.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/markdowncodeblocks.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/nbformat.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/pageconfig.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/path.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/poll.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/ratelimiter.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/restorablepool.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/statedb.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/text.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/time.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/url.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/workspace/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/setting/index.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/statedb.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/restorablepool.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/poll.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/ratelimiter.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/poll.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/dataconnector.d.ts": [
+        "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/zip.d.ts": [
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@phosphor/algorithm/lib/iter.d.ts"
@@ -5516,6 +5513,9 @@
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/edit/closebrackets.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/scroll/scrollpastend.d.ts",
         "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@types/codemirror/addon/selection/active-line.d.ts"
+      ],
+      "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts": [
+        "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts": [
         "/users/marisaaquilina/node_modules/@jupyterlab/services/lib/serverconnection.d.ts"
@@ -5797,12 +5797,12 @@
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/statusbar/lib/statusbar.d.ts",
       "/users/marisaaquilina/projects/pkginstaller/jupyterlab-pkginstaller/node_modules/@jupyterlab/statusbar/lib/index.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/coreutils/lib/index.d.ts",
-      "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
+      "/users/marisaaquilina/node_modules/@phosphor/algorithm/lib/index.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/signaling/lib/index.d.ts",
+      "/users/marisaaquilina/node_modules/@phosphor/disposable/lib/index.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/commands/lib/index.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/boxengine.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/messaging/lib/index.d.ts",
-      "/users/marisaaquilina/node_modules/@phosphor/algorithm/lib/index.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/title.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/widget.d.ts",
       "/users/marisaaquilina/node_modules/@phosphor/widgets/lib/layout.d.ts",

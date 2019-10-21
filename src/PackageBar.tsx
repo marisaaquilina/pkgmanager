@@ -135,12 +135,9 @@ export function PackageSearcher(props: PackageSearcherProps) {
     <div className={PackageBarStyleClasses.packageContainer}>
       {/* <p className={PackageBarStyleClasses.title}>Package Installer</p> */}
       {/* <p className={PackageBarStyleClasses.topBar}>Current Environment: {props.kernelName}</p> */}
-      <p className={[PackageBarStyleClasses.searchTitle, PackageBarStyleClasses.flexContainer].join(' ')}>Install Packages in Python 0.{props.kernelName.substr(-1)}</p>
+      <p className={[PackageBarStyleClasses.searchTitle, PackageBarStyleClasses.flexContainer].join(' ')}>Install Packages in {props.kernelName}</p>
       <div className={PackageBarStyleClasses.flexContainer}>
-        <div className={PackageBarStyleClasses.heading}>
-          {isProcessing && <p className={PackageBarStyleClasses.messageText}>Working... Please wait.</p>}
-          {!isProcessing && showMessage && <p className={PackageBarStyleClasses.messageText}>{getPipMessage(install, successfulProcess, packageToProcess)}</p>}
-        </div>
+     
         {!moduleErrorOccurred && <input id='result' className={PackageBarStyleClasses.packageInput} placeholder='PyPI Package Name'
               value={input} 
               onChange={e => setInput(e.target.value)}
@@ -156,7 +153,7 @@ export function PackageSearcher(props: PackageSearcherProps) {
               required
         />}
         <div className={PackageBarStyleClasses.buttonContainer}>
-          <button className={PackageBarStyleClasses.pipButton}
+          <button className={PackageBarStyleClasses.pipInstallButton}
           onClick={() => {sendRequest(input, true); setInstall(true);}}>
             Install
           </button>
@@ -166,7 +163,16 @@ export function PackageSearcher(props: PackageSearcherProps) {
           </button>
         </div>
       </div>
-      {successfulProcess && showMessage && !isProcessing && <p className={PackageBarStyleClasses.kernelPrompt}>You may need to update the kernel to see updated packages.</p>}
+      <div>
+      {
+        <p style={{paddingTop: '4px'}}>
+          {isProcessing && <span className={PackageBarStyleClasses.messageText}>Working... Please wait.</span>}
+          {!isProcessing && showMessage && <span className={PackageBarStyleClasses.messageText}>{getPipMessage(install, successfulProcess, packageToProcess)}</span>}
+          {successfulProcess && showMessage && !isProcessing && 
+            <span className={PackageBarStyleClasses.kernelPrompt}> You may need to update the kernel to see updated packages.</span>
+          }
+        </p>}
+      </div>
       {showMessage && <Dropdown stdOut={stdOut}/>}
     </div>
   );

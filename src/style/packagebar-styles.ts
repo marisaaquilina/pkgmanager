@@ -16,25 +16,26 @@ export namespace PackageBarStyleClasses {
   });
   export const kernelPrompt = style({
     paddingTop: 5,
+    fontSize: '10.88px',
+    lineHeight: '13px',
+    marginBottom: '0.75em',
+    color: 'var(--jp-ui-font-color2)'
   })
   export const pipButton = style({
-    backgroundColor: 'var(--md-blue-700)',
+    backgroundColor: 'var(--md-grey-500)',
     color: 'var(--jp-ui-inverse-font-color1)',
     border: 'none',
-    padding: '8px 0px',
     margin: 0,
     borderRadius: '2px',
-    fontSize: 'var(--jp-ui-font-size1)',
+    fontSize: 'var(--jp-ui-font-size0)'
   });
   export const pipInstallButton = style({
-    backgroundColor: 'var(--md-blue-700)',
+    backgroundColor: 'var(--md-blue-500)',
     color: 'var(--jp-ui-inverse-font-color1)',
     border: 'none',
-    padding: '8px 0px',
     margin: 0,
-    float: 'right',
     borderRadius: '2px',
-    width: '40px'
+    fontSize: 'var(--jp-ui-font-size0)'
   });
   export const errorButton = style({
     backgroundColor: 'white',
@@ -60,12 +61,10 @@ export namespace PackageBarStyleClasses {
   });
   export const packageInput = style({
     border: '1px solid var(--md-grey-400)',
-    padding: 8,
-    boxSizing: 'border-box',
-    fontSize: 'var(--jp-ui-font-size1)',
+    fontSize: 'var(--jp-ui-font-size0)',
   });
   export const logsButton = style({
-    backgroundColor: 'none',
+    backgroundColor: 'white',
     color: 'var(--md-blue-700)',
     border: 'none',
     padding: '8px',
@@ -73,7 +72,7 @@ export namespace PackageBarStyleClasses {
     marginTop: 4,
     borderRadius: 2,
     float: 'right',
-    fontSize: 'var(--jp-ui-font-size1)',
+    fontSize: 'var(--jp-ui-font-size0)',
   });
   export const packageLabel = style({
     textTransform: 'uppercase',
@@ -103,20 +102,14 @@ export namespace PackageBarStyleClasses {
     alignItems: 'flex-end',
     minHeight: '2.5em',
     textTransform: 'uppercase',
-    color: 'var(--jp-ui-font-color2)',
+    // color: 'var(--jp-ui-font-color2)',
     fontWeight: 'bold',
     fontSize: 'var(--jp-ui-font-size0)',
     lineHeight: '13px',
     marginBottom: '0.75em',
   });
-  export const heading = style({
-    display: 'flex',
-    justifyContent: 'space-between',
-    alignItems: 'flex-end',
-    minHeight: '2.5em',
-  });
   export const buttonContainer = style({
-    marginTop: '0.5em',
+    marginLeft: '0.5em',
     display: 'grid',
     gridTemplateColumns: '1fr 1fr',
     gridGap: '0.5em',
