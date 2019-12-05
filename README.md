@@ -21,3 +21,8 @@ jupyter labextension link .
 jlpm
 jupyter lab build
 ```
+- [x] Test switching between notebooks - works but slightly buggy
+- [ ] Test kernels made in console
+- [ ] Resolve promise errors
+- [ ] Throw snackbar on moduleError
+- [ ] CSS Background Icon
